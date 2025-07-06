@@ -1,0 +1,1 @@
+export const GOLANG_API_BASE_URL = process.env.NEXT_PUBLIC_GOLANG_API_BASE_URL_PROD;
